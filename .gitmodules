@@ -1,0 +1,3 @@
+[submodule "vibe-cli"]
+	path = vibe-cli
+	url = https://github.com/SacredNightmare99/vibe-cli.git
