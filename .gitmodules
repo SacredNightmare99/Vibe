@@ -1,3 +1,6 @@
 [submodule "vibe-cli"]
 	path = vibe-cli
 	url = https://github.com/SacredNightmare99/vibe-cli.git
+[submodule "vibe-mobile"]
+	path = vibe-mobile
+	url = https://github.com/SacredNightmare99/vibe-mobile.git
