@@ -1,5 +1,7 @@
 # Vibe
 
+***Under Development***
+
 *Local AI-powered Coding Environment with Automatic Versioning*
 
 ---
