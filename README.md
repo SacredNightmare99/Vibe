@@ -41,23 +41,8 @@ You get the same control and interactability as Gemini CLI — but portable, rem
 
 ### 1. **Vibegit (Go CLI)**
 
-Already implemented (`main.go`, `commands.go`), extended with new commands below.
-
 **Purpose:**
 Maintain lightweight, human-readable “checkpoints” of project state as Git patches.
-
-**Key Commands:**
-
-| Command                | Function                                        |
-| ---------------------- | ----------------------------------------------- |
-| `vibe init`            | Initialize `.vibes/` and log.json               |
-| `vibe save "<msg>"`    | Save current working diff as a patch            |
-| `vibe list`            | Show all recorded vibes                         |
-| `vibe checkout <id>`   | Restore project to a saved patch                |
-| `vibe diff <id>`       | Show patch contents                             |
-| `vibe reset`           | Delete all saved vibes                          |
-| **`vibe mark <path>`** | Mark directory for automatic watch              |
-| **`vibe watch`**       | Start file-system watcher; auto-save on changes |
 
 ---
 
